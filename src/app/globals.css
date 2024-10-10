@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.height-full {
+    height: calc(100vh - 80px);
+}
+
+.min-height-full {
+    min-height: calc(100vh - 80px);
+}
