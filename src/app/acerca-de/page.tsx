@@ -1,28 +1,16 @@
 export default function AcercaDe() {
     return (
         <>
-            <section className="flex flex-col justify-center items-center gap-[50px] px-[50px] py-[80px] md:flex-row">
-                <div className="w-full">
-                    <h1 className="text-4xl pb-[25px]"><b>Lorem, ipsum dolor.</b></h1>
-                    <p className="text-second-gray">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam quasi quibusdam minus odit dolor rem perferendis doloremque fuga unde totam ipsa ullam delectus vero enim quas quidem, molestias minima nam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, totam et debitis vel repellat laudantium neque eum quas. Sequi, enim. Non, eligendi quam. Debitis, suscipit dolores veniam corrupti iusto mollitia.</p>
-                    <p className="text-second-gray">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro consequatur qui sint veritatis! Culpa praesentium voluptates hic, rerum aut eveniet harum iusto. Beatae atque quam reprehenderit quis blanditiis placeat consequuntur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, odit tempora hic tenetur non in, id libero recusandae quis expedita adipisci sunt architecto numquam commodi similique, iure veritatis repudiandae voluptates.</p>
-                </div>
-                <div className="w-full max-w-[750px] flex justify-center items-center">
-                    <img src="/replacement-image.svg" alt="One image" className="rounded-[15px]" />
+            <section className="gap-[50px] px-[50px] py-[80px]">
+                <div className="w-full max-w-[75%] mx-auto text-center">
+                    <h1 className="text-4xl pb-[25px]"><b>Esta es Nuestra Historia</b></h1>
+                    <p className="text-second-gray">IntelliMind se creó con un único propósito, proporcionar a las persona rutas de aprendizaje completas y 100% efectivas, con la posibilida de vivir de ello, nuestras rutas completas y 100% funciales enfocadas en la práctica activa no solo te llevarán a realizar un hobbie más, te llevará a aprender una nueva habilidad que en el futuro podrías usar.</p>
                 </div>
             </section>
-            <section className="flex flex-col justify-center items-center gap-[50px] px-[50px] py-[80px] md:flex-row">
-                <div className="w-full block md:hidden">
-                    <h1 className="text-4xl pb-[25px]"><b>Lorem, ipsum dolor.</b></h1>
-                    <p className="text-second-gray">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti reiciendis obcaecati debitis numquam perferendis, nisi ipsa quod nihil quam, temporibus eos vel accusantium veniam adipisci aliquid quae magnam modi sint!</p>
-                </div>
-                <div className="w-full max-w-[750px] flex justify-center items-center">
-                    <img src="/replacement-image.svg" alt="One image" className="rounded-[15px]" />
-                </div>
-                <div className="w-full">
-                    <h1 className="text-4xl pb-[25px] hidden md:block"><b>Lorem, ipsum dolor.</b></h1>
-                    <p className="hidden md:block text-second-gray">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro consequatur qui sint veritatis! Culpa praesentium voluptates hic, rerum aut eveniet harum iusto. Beatae atque quam reprehenderit quis blanditiis placeat consequuntur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, odit tempora hic tenetur non in, id libero recusandae quis expedita adipisci sunt architecto numquam commodi similique, iure veritatis repudiandae voluptates.</p>
-                    <p className="text-second-gray">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam quasi quibusdam minus odit dolor rem perferendis doloremque fuga unde totam ipsa ullam delectus vero enim quas quidem, molestias minima nam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, totam et debitis vel repellat laudantium neque eum quas. Sequi, enim. Non, eligendi quam. Debitis, suscipit dolores veniam corrupti iusto mollitia.</p>
+            <section className="gap-[50px] px-[50px] py-[80px]">
+                <div className="max-w-[75%] mx-auto text-center">
+                    <h1 className="text-4xl pb-[25px]"><b>Conoce Más Sobre Nuestros Roadmaps</b></h1>
+                    <p className="text-second-gray">Te ofrecemos rutas de aprendizaje con un enfoque en el aprendizaje práctico y continuo, con rutas y sistemas aprobados por la ciencia detrás del estudio, pero cabe aclarar que nuestro contenido no es creado por nosotros, nosotros solo reunimos recursos gratuitos que se encuentran disponibles en la red de internet y que cualquier persona puede ver, nosotros estructuramos y añadimos lo necesario e indispensable para que tu aprendizaje, sea el más optimo.</p>
                 </div>
             </section>
         </>

@@ -74,7 +74,7 @@ const RoadmapPage: FC<RoadmapPageProps> = () => {
                     <section className='my-[15px]'>
                         <h2 className='text-3xl'><b>Aprendiendo a Aprender</b></h2>
                         <p className="my-[15px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia iure culpa suscipit quas. Ratione non itaque necessitatibus rem, eligendi temporibus possimus ex neque excepturi? Corporis, quisquam? Molestiae sed aliquid rem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae quia ut quos accusamus sed, saepe eaque, fugiat odio doloribus quidem minus enim incidunt nesciunt ex! Id veritatis numquam consequuntur beatae.</p>
-                        <img src="/front-page.png" alt="Portada de video" className="my-[15px] max-w-[80%] mx-auto" />
+                        <img src="/replacement-image.svg" alt="" className="my-[15px] max-w-[75%] mx-auto" />
                         <div className="my-[15px]">
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea, corrupti, nemo veniam dolore tempore facere quia, ab similique sint eos repudiandae dolorem quis. Totam aliquam odio repudiandae illo? Quidem, impedit.</p>
                             <ul className='list-disc pl-[50px] my-[15px]'>
